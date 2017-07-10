@@ -8,9 +8,9 @@ Este modelo é composto por:
 4 Switches (s1, s2, s3, s4);<br>
 6 Hosts (h1, h2, h3, h4, h5, h6, h7, h8).<br><br>
 
-![Cenário](imagemcenario.jpg “Cenario”)
+![Cenário](imagescenario.jpg “Cenario”)
 > Representação do cenário
 
-<br><br>
+<br>
 
 > por Diego Fernando
